@@ -1,7 +1,7 @@
 # html-css-first-project
-project pertama dengan html dan css dari tutorial pak sandika galih\
+project pertama dengan html dan css dari tutorial pak sandika galih
 <p align="center">
-  img<src="./image/bg.jpg>
+  img<src="./image/bg.JPG>
  </p>
   
 
